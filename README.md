@@ -1,7 +1,7 @@
 # Word-Search-And-Count
 import java.util.*;
 import java.io.*;
-public class Hamlet2
+public class File
 {
     public static void main(String[]args) throws FileNotFoundException
     {
